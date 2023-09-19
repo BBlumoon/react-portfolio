@@ -1,5 +1,8 @@
 # react-portfolio
 
+## Description
+In this project, I am remaking my portfolio by using ReactJS instead of HTML.
+
 ## Acceptance Criteria
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
