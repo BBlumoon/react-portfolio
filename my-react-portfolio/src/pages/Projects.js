@@ -1,8 +1,15 @@
 import React from "react";
+import ProjectItem from "../components/ProjectItem";
 
 function Projects() {
     return(
-        <div>Projects</div>
+        <div className="projects">
+            <h1>My Projects</h1>
+            <div className="projectList">
+                <ProjectItem name='Pokemon Dashboard'/>
+                <ProjectItem name='Cat Cafe'/>
+            </div>
+        </div>
     )
 }
 
