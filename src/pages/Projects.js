@@ -22,7 +22,7 @@ function Projects() {
             <div className="projects">
             <a href="https://github.com/Sergrojas29/Purrfect-Cat-Cafe" target="_blank" rel="noopener noreferrer">Cat Cafe Github</a>
             <a href="https://github.com/SethMunoz339/pokemon-dashboard" target="_blank" rel="noopener noreferrer">Pokemon Dashboard Github</a>
-            <a href="https://github.com/BBlumoon/react-portfolio" target="_blank" rel="noopener noreferrer">Placeholder Links</a>
+            <a href="https://github.com/BBlumoon/react-portfolio" target="_blank" rel="noopener noreferrer">Trip-tracker Github</a>
             <a href="https://fakelink.com" target="_blank" rel="noopener noreferrer">Placeholder Links</a>
             <a href="https://fakelink.com" target="_blank" rel="noopener noreferrer">Placeholder Links</a>
             <a href="https://fakelink.com" target="_blank" rel="noopener noreferrer">Placeholder Links</a>
