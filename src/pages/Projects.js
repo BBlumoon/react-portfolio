@@ -12,7 +12,7 @@ function Projects() {
             <div className="projectList">
                 <ProjectItem name='Pokemon Dashboard' image={Proj1}/>
                 <ProjectItem name='Cat Cafe' image={Proj2}/>
-                <ProjectItem name='Placeholder' image={Proj2}/>
+                <ProjectItem name='Trip Tracker' image={Proj2}/>
                 <ProjectItem name='Placeholder' image={Proj2}/>
                 <ProjectItem name='Placeholder' image={Proj2}/>
                 <ProjectItem name='Placeholder' image={Proj2}/>
